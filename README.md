@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### - 🔭 I’m currently exploring different skills
-#### - 🌱 I’m currently learning web development
+#### - 🌱 I’m currently learning web development and data science
 #### - 📫 How to reach me: <br>
 - [Website](https://divyapatel-31.web.app) <br>
 - [Mail](mailto:d.b.patel691@gmail.com)<br>
