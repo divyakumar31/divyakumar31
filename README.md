@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### - 🔭 I’m currently exploring different skills
+#### - 🌱 I’m currently learning web development
+#### - 📫 How to reach me: <br>
+- [Website](https://divyapatel-31.web.app) <br>
+- [Mail](mailto:d.b.patel691@gmail.com)<br>
+- [Linkedin](www.linkedin.com/in/divyapatel31)
+- [Instagram](https://www.instagram.com/divy_patel31/)
+#### - 😄 Pronouns: he/him
