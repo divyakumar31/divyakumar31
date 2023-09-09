@@ -22,3 +22,28 @@ Here are some ideas to get you started:
 - [Linkedin](https://www.linkedin.com/in/divyapatel31)
 - [Instagram](https://www.instagram.com/divy_patel31/)
 #### - 😄 Pronouns: he/him
+
+
+
+### Languages and Tools:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,java,python,flask"/>
+<!--
+<img src="https://skillicons.dev/icons?i=css" style="width: 32px; height: 32px;"/>
+<img src="https://skillicons.dev/icons?i=js" style="width: 32px; height: 32px;"/>
+<img src="https://skillicons.dev/icons?i=c" style="width: 32px; height: 32px;"/>
+<img src="https://skillicons.dev/icons?i=java" style="width: 32px; height: 32px;"/>
+<img src="https://skillicons.dev/icons?i=python" style="width: 32px; height: 32px;"/>
+<img src="https://skillicons.dev/icons?i=flask" style="width: 32px; height: 32px;"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap" style="width: 32px; height: 32px;"/>
+<img src="https://skillicons.dev/icons?i=tailwind" style="width: 32px; height: 32px;"/>
+-->
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,selenium"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<!-- &perline=3 -->
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/divyapatel31/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>    <a href="https://www.instagram.com/divy_patel31/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a>
