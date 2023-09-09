@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,c,java,python,flask"/>
+
 <!--
+</p>
 <img src="https://skillicons.dev/icons?i=css" style="width: 32px; height: 32px;"/>
 <img src="https://skillicons.dev/icons?i=js" style="width: 32px; height: 32px;"/>
 <img src="https://skillicons.dev/icons?i=c" style="width: 32px; height: 32px;"/>
@@ -38,9 +41,13 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=bootstrap" style="width: 32px; height: 32px;"/>
 <img src="https://skillicons.dev/icons?i=tailwind" style="width: 32px; height: 32px;"/>
+<p align="center">
+</p>
+<p align="center">
 -->
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,selenium"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>  
+</p>
 
 <!-- &perline=3 -->
 
