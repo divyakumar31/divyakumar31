@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 #### - 📫 How to reach me: <br>
 - [Website](https://divyapatel-31.web.app) <br>
 - [Mail](mailto:d.b.patel691@gmail.com)<br>
-- [Linkedin](www.linkedin.com/in/divyapatel31)
+- [Linkedin](https://www.linkedin.com/in/divyapatel31)
 - [Instagram](https://www.instagram.com/divy_patel31/)
 #### - 😄 Pronouns: he/him
