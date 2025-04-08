@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://divyapatel-31.web.app/
 -->
 #### - 🔭 I’m currently exploring different skills
 #### - 🌱 I’m currently learning web development and data science
 #### - 📫 How to reach me: <br>
-- [Website](https://divyapatel-31.web.app) <br>
+- [Website](https://divyakumar31.github.io/) <br>
 - [Mail](mailto:d.b.patel691@gmail.com)<br>
 - [Linkedin](https://www.linkedin.com/in/divyapatel31)
 - [Instagram](https://www.instagram.com/divy_patel31/)
@@ -53,4 +54,4 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/divyapatel31/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>    <a href="https://www.instagram.com/divy_patel31/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a>
+<a href="https://www.linkedin.com/in/divyapatel31/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>   
